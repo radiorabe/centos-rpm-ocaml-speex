@@ -41,6 +41,10 @@ make install
 /usr/lib64/ocaml/speex/speex.cmi
 /usr/lib64/ocaml/speex/speex.cmxa
 /usr/lib64/ocaml/speex/speex.mli
+/usr/lib64/ocaml/speex/speex.cmx
+/usr/lib64/ocaml/speex/ogg_demuxer_speex_decoder.cmi
+/usr/lib64/ocaml/speex/ogg_demuxer_speex_decoder.cmx
+/usr/lib64/ocaml/speex/ogg_demuxer_speex_decoder.mli
 /usr/lib64/ocaml/speex/libspeex_stubs.a
 /usr/lib64/ocaml/stublibs/dllspeex_stubs.so
 /usr/lib64/ocaml/stublibs/dllspeex_stubs.so.owner
