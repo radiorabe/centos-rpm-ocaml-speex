@@ -12,7 +12,9 @@ BuildRequires: ocaml-findlib
 BuildRequires: ocaml-bytes
 BuildRequires: ocaml-ogg
 BuildRequires: speex-devel
+BuildRequires: libogg-devel
 Requires:      speex
+Requires:      libogg
 
 %prep
 %setup -q 
