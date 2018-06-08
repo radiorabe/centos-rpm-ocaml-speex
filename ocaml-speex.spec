@@ -9,7 +9,6 @@ Source0:  https://github.com/savonet/ocaml-speex/releases/download/%{version}/oc
 
 BuildRequires: ocaml
 BuildRequires: ocaml-findlib
-BuildRequires: ocaml-bytes
 BuildRequires: ocaml-ogg
 BuildRequires: speex-devel
 BuildRequires: libogg-devel
